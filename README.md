@@ -4,7 +4,7 @@
 / /___/ / /___/ /_/ / /__/ ,< (__  )
 \____/_/_____/\____/\___/_/|_/____/
 
-PoC of CiLocks using Huawei Smartphone: Bypass 4 Digits PIN using a wordlist
+PoC of Huawei Smartphone PIN Bruteforce - Bypass 4 Digits PIN using a wordlist
 
 --> Original Tool by LoliC0d3 - Tegal1337 <--
 --> Mod by Vincenzo Digilio <--

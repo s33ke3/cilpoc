@@ -4,7 +4,7 @@
 / /___/ / /___/ /_/ / /__/ ,< (__  )
 \____/_/_____/\____/\___/_/|_/____/
 
-//PoC with Huawei Bypass 4 Digits with a wordlist\\
+PoC with Huawei Bypass 4 Digits with a wordlist
 
 --> Original Tool by LoliC0d3 - Tegal1337 <--
 --> Mod by Vincenzo Digilio <--
